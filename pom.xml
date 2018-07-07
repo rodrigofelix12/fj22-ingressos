@@ -150,5 +150,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    	<developer>
+    		<name>Rodrigo Felix</name>
+    		<email>rodrigo.felix321@gmail.com</email>
+    	</developer>
+    </developers>
 
 </project>
